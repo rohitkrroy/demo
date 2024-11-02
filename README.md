@@ -1,3 +1,3 @@
 # demo
 my first repository
-Author--r\Rohit Kumar
+Author--Rohit Kumar
